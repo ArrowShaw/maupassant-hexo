@@ -330,9 +330,11 @@ div {
             position: relative;
         }
         img {
-            max-width: 100%;
-            padding: 0.5em 0;
+            max-width: 50%;
+            // padding: 0.5em 0;
             margin: auto;
+            // border:10px solid rgba(164, 163, 163, 0.3);
+            box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
             display: block;
         }
         ul,
